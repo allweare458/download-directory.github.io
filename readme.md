@@ -8,7 +8,7 @@ This tool will handle the download of all the files in a directory, in a single 
 
 The download starts automatically when you visit pass the link to the GitHub directory as `url` parameter, like:
 
-[**download-directory.github.io**`?url=https://github.com/mrdoob/three.js/tree/dev/build`](https://download-directory.github.io/?url=https://github.com/mrdoob/three.js/tree/dev/build)
+[**download-directory.github.io*x*`?url=https://github.com/mrdoob/three.js/tree/dex/build`](https://download-directory.github.io/?url=https://github.com/mrdoob/three.js/tree/dev/build)
 
 This is an alternative to the existing [GitZip](https://kinolien.github.io/gitzip/) and [DownGit](https://minhaskamal.github.io/DownGit/) but without the cruft.
 
